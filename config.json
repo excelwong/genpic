@@ -24,9 +24,7 @@
   "lora1_strength": 0.7,
   "lora2_name": "z-image\\b3tterbreast.safetensors",
   "lora2_strength": 0.5,
-  "lora3_name": "z-image_mate\\zimage_huqi_like_lora_v4.safetensors",
   "lora1_name": "z-image_mate\\zimage_ych_ol_lora_v3_000002750.safetensors",
-  "lora4_name": "z-image_mate\\zimage_zhouchenxi_lora_v1_000002750.safetensors",
   "timeout": 1200,
   "poll_interval": 5,
   "prompt_config": {
